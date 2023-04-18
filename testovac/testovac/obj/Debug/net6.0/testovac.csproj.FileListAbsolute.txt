@@ -1,0 +1,15 @@
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\bin\Debug\net6.0\testovac.exe
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\bin\Debug\net6.0\testovac.deps.json
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\bin\Debug\net6.0\testovac.runtimeconfig.json
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\bin\Debug\net6.0\testovac.dll
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\bin\Debug\net6.0\testovac.pdb
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.csproj.AssemblyReference.cache
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.AssemblyInfoInputs.cache
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.AssemblyInfo.cs
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.csproj.CoreCompileInputs.cache
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.dll
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\refint\testovac.dll
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.pdb
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\testovac.genruntimeconfig.cache
+C:\Users\daniel.prchlik\source\repos\testovac\testovac\obj\Debug\net6.0\ref\testovac.dll
